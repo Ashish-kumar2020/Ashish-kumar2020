@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://github.com/Ashish-kumar2020">GitHub</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/ashish-singh-0511551b1/">LinkedIn</a> •
+  <!-- <a href="YOUR_PORTFOLIO_URL">Portfolio</a> • -->
+  <a href="mailto:ashishsinghk2020@gmail.com">Email</a>
 </p>
 
 ---
